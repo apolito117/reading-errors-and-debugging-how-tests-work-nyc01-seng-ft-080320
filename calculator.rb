@@ -1,7 +1,7 @@
 # Add your variables here
-first_number = 1
-second_number = 2
-sum = 3
-difference = -1
+first_number = 10
+second_number = 5
+sum = 15
+difference = 5
 product = 2
-quotient = 0.5
+quotient = 2
